@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  height: 400px;
+  margin: 0;
+  background-image:url("http://sketchmadness.ohioart.com/img/blanksketch.png");
+  background-repeat: no-repeat;
+}
+
+canvas {
+  margin-left: 185px;
+  margin-top: 185px;
+  border: 1px solid grey;
+  background-color: silver;
+}
